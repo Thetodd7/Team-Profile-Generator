@@ -11,6 +11,7 @@
   * [Tests](#Tests)
   * [License](#License)
   * [Contributions](#Contributions)
+  * [Questions](#questions)
   
 
   ## Usage
@@ -33,5 +34,6 @@
   ## Contributions
   
   Contributors should read the installation section.
- 
+  
+ ## Questions
   If you have any questions, please contact me on GitHub [thetodd7](https://github.com/thetodd7) or email me at toddgranados@gmail.com 
