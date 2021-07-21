@@ -20,11 +20,11 @@
 
   ## Installation
 
-  To install please run npm i
+  Clone this repository from my GitHub page and download Node.
 
   ## Tests 
 
-  To test please run npm test
+  To test please `run npm test`
 
   ## License 
 
@@ -32,6 +32,6 @@
 
   ## Contributions
   
-  undefined
+  Contributors should read the installation section.
  
   If you have any questions, please contact me on GitHub [thetodd7](https://github.com/thetodd7) or email me at toddgranados@gmail.com 
