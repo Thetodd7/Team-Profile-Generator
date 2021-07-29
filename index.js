@@ -1,13 +1,11 @@
-
 const generateHTML = require('./src/generateHTML.js');
-
 
 const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 const inquirer = require("inquirer");
 const fs = require("fs");
-// const path = require("path");
+const path = require("path");
 
 const team = [];
 
@@ -193,7 +191,7 @@ const addEmployee = () => {
 
 // function to generate HTML page file using file system 
 const writeFile = data => {
-    fs.writeFile('./dist/index.html', data, err => {
+    fs.writeFile(path.join(__dirname,'./dist/index.html') , data, err => {
         // if there is an error 
         if (err) {
             console.log(err);
@@ -203,7 +201,7 @@ const writeFile = data => {
             console.log("Your team profile has been successfully created! Please check out the index.html")
         }
     })
-}; 
+};
 
 addManager()
   .then(addEmployee)
