@@ -13,7 +13,8 @@
   * [Contributions](#Contributions)
   * [Questions](#questions)
   
-
+  ## Video
+  https://youtu.be/vevW1sxe5Gw
   ## Usage
 
   ![Screen Shot 2021-07-20 at 9 26 16 PM](https://user-images.githubusercontent.com/85806673/126424867-b7ba4f58-9c16-47d7-8c22-314da665ecaa.jpg)
